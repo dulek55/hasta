@@ -1,0 +1,1 @@
+h01 - dummy class Product; /product - getAllProducts
