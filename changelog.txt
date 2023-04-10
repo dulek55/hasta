@@ -1,1 +1,2 @@
 h01 - dummy class Product; /product - getAllProducts
+h02 - remove dummy Product, add BadmintonTimeslot
